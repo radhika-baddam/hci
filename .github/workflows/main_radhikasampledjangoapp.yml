@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'RadhikaSampleDjangoapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BC5705746A664D0897468AFF01BF033C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4555AFB4EE044969A39577ED964B3497 }}
